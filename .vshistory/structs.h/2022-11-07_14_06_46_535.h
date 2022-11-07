@@ -1,0 +1,8 @@
+
+struct Piece {
+
+};
+
+struct Move {
+
+};
